@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/GuitarProgressApp/static/css/main.6cfcb289.chunk.css",
+    "main.js": "/GuitarProgressApp/static/js/main.10d4662e.chunk.js",
+    "main.js.map": "/GuitarProgressApp/static/js/main.10d4662e.chunk.js.map",
+    "runtime~main.js": "/GuitarProgressApp/static/js/runtime~main.50b43186.js",
+    "runtime~main.js.map": "/GuitarProgressApp/static/js/runtime~main.50b43186.js.map",
+    "static/js/2.a20d1eb9.chunk.js": "/GuitarProgressApp/static/js/2.a20d1eb9.chunk.js",
+    "static/js/2.a20d1eb9.chunk.js.map": "/GuitarProgressApp/static/js/2.a20d1eb9.chunk.js.map",
+    "index.html": "/GuitarProgressApp/index.html",
+    "precache-manifest.eebc9b4b70705f2b798299348117bdcf.js": "/GuitarProgressApp/precache-manifest.eebc9b4b70705f2b798299348117bdcf.js",
+    "service-worker.js": "/GuitarProgressApp/service-worker.js",
+    "static/css/main.6cfcb289.chunk.css.map": "/GuitarProgressApp/static/css/main.6cfcb289.chunk.css.map",
+    "static/media/App.scss": "/GuitarProgressApp/static/media/guitar.4a57a86a.jpg",
+    "static/media/logo.svg": "/GuitarProgressApp/static/media/logo.24d17edf.svg"
+  }
+}
