@@ -1,0 +1,58 @@
+
+
+.header {
+  display: flex;
+  position: relative;
+  flex-wrap: nowrap;
+  align-items: center;
+  font-size: 2em;
+  justify-content: space-between;
+
+  .headerLogo {
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    .Logo-link {
+      text-decoration: none;
+      font-weight: bold;
+      color: white;
+      font-family: 'Bad Script';
+      transform: translateX(5%);
+      transition: 0.3s;
+      text-shadow: 3px 2px 3px rgba(255,255,255,.2);
+      &:hover{
+        color: $Cashmere;
+      }
+    }
+  }
+}
+
+nav{
+  display: flex;
+
+  ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    li {
+
+      margin-right: 10px;
+      &:nth-last-of-type(){
+        margin-right: 0;
+      }
+      a {
+        text-decoration: none;
+        transition: 0.3s;
+        color: $Sandal;
+
+        &:hover {
+          text-decoration: none;
+          color: $Cashmere;
+          text-shadow: 3px 2px 3px rgba(255, 255, 255, .2);
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+@import "../scss/modules/colors";
+
+.inChordsForm{
+  width: 100%;
+  height: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  h3{
+    text-shadow: $SpicyMixShadow;
+    margin-bottom: 2%;
+  }
+  .chordsInput{
+    transform: scale(1.5, 1.5);
+    text-align: center;
+    outline: 0;
+    border-radius: 2px;
+    width: 30%;
+    height: 40%;
+    line-height: 40%;
+    border-color: $SpicyMixOpa;
+    margin-bottom: 10px;
+    &:focus{
+      outline: 0;
+      border-color: $Sandal;
+    }
+  }
+
+  .chordsInputs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .chordsSubmit{
+    padding: 5px;
+    margin-right: 10px;
+  }
+  .chordsVariations{
+    display: flex;
+    align-items: center;
+  }
+}
+
+.uberchord-iframe{
+  justify-content: center;
+  display: flex;
+  height: auto;
+  background-color: white;
+  html {
+    body {
+      #chords-list {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .chord-block{
+        display: inline;
+      }
+    }
+  }
+}

@@ -5,7 +5,7 @@ const config = {
     databaseURL: "https://guitarprogress-29c42.firebaseio.com",
     projectId: "guitarprogress-29c42",
     storageBucket: "guitarprogress-29c42.appspot.com",
-    messagingSenderId: "1095074541355",
+    messagingSenderId: "1095074git541355",
     appId: "1:1095074541355:web:7c8c501fe97c2f6c"
 };
 firebase.initializeApp(config);
