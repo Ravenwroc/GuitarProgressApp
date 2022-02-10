@@ -10,7 +10,7 @@
     "firebase": "^6.2.0",
     "hamburgers": "^1.1.3",
     "mdbreact": "^4.16.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.9",
     "react-burger-menu": "^2.6.10",
